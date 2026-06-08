@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Chekib Jomni
 
-<!--
-**chekibjomni-design/chekibjomni-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur full-stack | Intégrateur ERP Sage X3 | Data & Automatisation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+```
+Python  ·  Flask  ·  FastAPI  ·  React  ·  Next.js  ·  TypeScript
+SQL Server  ·  SQLite  ·  PostgreSQL  ·  ODBC  ·  Sage X3
+Docker  ·  Linux  ·  WSL  ·  Bash  ·  PowerShell
+```
+
+### 📦 Projets
+
+| Projet | Description |
+|--------|-------------|
+| [**sage-x3-connector**](https://github.com/chekibjomni-design/sage-x3-connector) | Module Python pour connecter Sage X3 via ODBC. Support WSL, instances nommées, .env |
+| **LVC Tax Calculator** | Calculateur de taxes automatique avec extraction Sage X3 (privé) |
+
+### 📫 Contact
+
+- GitHub : [@chekibjomni-design](https://github.com/chekibjomni-design)
+
+---
+
+*Enthousiaste de la tech — toujours en train d'automatiser quelque chose.*
